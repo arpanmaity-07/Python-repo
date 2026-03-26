@@ -1,6 +1,5 @@
-<html>
-<head>
 # Python-repo
+<html>
 <h3>This is my python codes repository.</h3>
 <ol>
     <li>Added first python code to make a Digital clock</li>
