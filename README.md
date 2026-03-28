@@ -13,5 +13,11 @@
         <li>Can convert any link to qr code</li>
         <li>Can change the color of the qr code and also the background</li>
     </ul>
+    <li>Added Grade Management app prototype.</li>
+    <ul type="square">
+        <li>Asks user to enter name and grade</li>
+        <li>Gives choices to the user for performing tasks</li>
+        <li>User can edit the data</li>
+        <li>User can delete the data</li>
 </ol>
 </html>
