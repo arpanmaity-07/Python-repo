@@ -19,5 +19,13 @@
         <li>Gives choices to the user for performing tasks</li>
         <li>User can edit the data</li>
         <li>User can delete the data</li>
+    </ul>
+    <li>Added rent calculator prototype.</li>
+    <ul type="square">
+        <li>Asks user about the expenses</li>
+        <li>Asks user if the user shares the room the the rent will be divided among them</li>
+        <li>Total expense is shown</li>
+        <li>And the amount the user have to pay is shown</li>
+    </ul>
 </ol>
 </html>
