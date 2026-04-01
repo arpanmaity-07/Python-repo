@@ -23,9 +23,22 @@
     <li>Added rent calculator prototype.</li>
     <ul type="square">
         <li>Asks user about the expenses</li>
-        <li>Asks user if the user shares the room the the rent will be divided among them</li>
+        <li>Asks user if the user shares the room then the rent will be divided among them</li>
         <li>Total expense is shown</li>
         <li>And the amount the user have to pay is shown</li>
+    </ul>
+    <li>Added Contact book management app prototype.</li>
+    <ul type="square">
+        <li>Asks user options to choose what to do</li>
+        <li>User can add names, email, age and mobile no.</li>
+        <li>User can edit, delete and count total no. of contacts</li>
+        <li>User can veiw details of a contact and seearch for them</li>
+    </ul>
+    <li>Added File management app prototype.</li>
+    <ul type="square">
+        <li>Asks user multiple choices what to do</li>
+        <li>Asks user to create a new file, edit the file or deelete a file</li>
+        <li>User can view all files or read a single file</li>
     </ul>
 </ol>
 </html>
