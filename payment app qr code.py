@@ -21,4 +21,3 @@ googlepay_qr.save("google_pay_qr.png")
 #Display the QR code using pillow library
 phonepe_qr.show()
 paytm_qr.show()
-googlepay_qr.show()
