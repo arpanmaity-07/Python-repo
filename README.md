@@ -40,5 +40,16 @@
         <li>Asks user to create a new file, edit the file or deelete a file</li>
         <li>User can view all files or read a single file</li>
     </ul>
+    <li>Added Image slideshow app prototype.</li>
+    <ul type="square">
+        <li>User can give multiple photos for slideshow</li>
+        <li>User can change the timespan for showing the photos</li>
+        <li>Photos are shown in sequential way</li>
+    </ul>
+    <li>Added Payment QR generator app prototype.</li>
+    <ul type="square">
+        <li>Asks user for the upi id</li>
+        <li>Makes # qr code for the id google pay, phonepe and for paytm</li>
+    </ul>
 </ol>
 </html>
