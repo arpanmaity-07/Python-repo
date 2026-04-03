@@ -49,7 +49,14 @@
     <li>Added Payment QR generator app prototype.</li>
     <ul type="square">
         <li>Asks user for the upi id</li>
-        <li>Makes # qr code for the id google pay, phonepe and for paytm</li>
+        <li>Makes 3 qr code for the id google pay, phonepe and for paytm</li>
+    </ul>
+    <li>Added To Do app prototype.</li>
+    <ul type="square">
+        <li>Asks user how many tasks the user wants to add</li>
+        <li>User can add or remove tasks</li>
+        <li>User can edit the tasks</li>
+        <li>User can view the tasks</li>
     </ul>
 </ol>
 </html>
