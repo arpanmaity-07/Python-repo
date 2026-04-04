@@ -58,5 +58,11 @@
         <li>User can edit the tasks</li>
         <li>User can view the tasks</li>
     </ul>
+    <li>Added Text editor app.</li>
+    <ul type="square">
+        <li>User can write anything in the text editor</li>
+        <li>The text can be saved in the internal storage</li>
+        <li>It works like notepad</li>
+    </ul>
 </ol>
 </html>
