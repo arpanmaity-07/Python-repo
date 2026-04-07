@@ -64,5 +64,11 @@
         <li>The text can be saved in the internal storage</li>
         <li>It works like notepad</li>
     </ul>
+    <li>Added rock, paper and scissors game.</li>
+    <ul type="square">
+        <li>The user can play the game with the computer</li>
+        <li>User have to choose betwwen rock, paper and scissors</li>
+        <li>The computer chooses randomly</li>
+    </ul>
 </ol>
 </html>
