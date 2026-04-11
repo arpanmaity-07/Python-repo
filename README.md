@@ -70,5 +70,11 @@
         <li>User have to choose betwwen rock, paper and scissors</li>
         <li>The computer chooses randomly</li>
     </ul>
+    <li>Added tic tac toe game.</li>
+    <ul type="square">
+        <li>The user can play the game with another player</li>
+        <li>First player marks cross on any box then the player with circle gets a chance</li>
+        <li>the first one to mark 3 consecutive symbols(X or O) either horizontally, vertically or diagonally wins the game</li>
+    </ul>
 </ol>
 </html>
